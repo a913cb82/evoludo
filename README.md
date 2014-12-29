@@ -1,4 +1,4 @@
 Evoludo
 =======
 
-Cellular automata evolution simulation
+Cellular automata evolution simulation.
